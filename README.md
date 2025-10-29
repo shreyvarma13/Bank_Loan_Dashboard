@@ -1,6 +1,6 @@
 # Bank Loan Report Dashboard in Excel
 
-This project is an interactive **Bank Loan Report Dashboard** built in Microsoft Excel.
+This project is an interactive **Bank Loan Dashboard** built in Microsoft Excel.
 It provides a comprehensive analysis of the bank’s lending activities and portfolio health using key financial metrics such as **Loan Applications, Funded Amounts, Amounts Received, Interest Rates,** and **Debt-to-Income Ratios (DTI)**.
 
 ---
@@ -93,18 +93,19 @@ The dataset, contained in the **‘Financial Loan’** sheet, includes the follo
 
 ---
 
-## Conclusion
-
-This **Bank Loan Dashboard** acts as a complete business intelligence solution for financial institutions.
-It empowers stakeholders to monitor loan health, identify risks, and make data-backed lending decisions
-
----
-
 # Dashboard Overview
 
 <img width="1852" height="936" alt="image" src="https://github.com/user-attachments/assets/71d071bf-f90d-4b86-ae4d-facd3bde0707" />
 
 <img width="1804" height="930" alt="image" src="https://github.com/user-attachments/assets/221450fb-c570-4c9b-bf2d-ddd200597ee8" />
+
+---
+
+## Conclusion
+
+This **Bank Loan Dashboard** acts as a complete business intelligence solution for financial institutions.
+It empowers stakeholders to monitor loan health, identify risks, and make data-backed lending decisions
+
 
 
 
